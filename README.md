@@ -19,8 +19,11 @@ This content is focusing on
 
 1. [Computer Vision ile Fotoğraf Analizi ve OCR](https://github.com/ikivanc/Microsoft-Cognitive-Services---Computer-Vision)
 
-1. [Custom Vision Services Uygulama Örneği](https://github.com/ikivanc/Custom-Vision-Prediction-Ornegi)
- 
+1. [Custom Vision Services - Image Classification](https://github.com/ikivanc/Custom-Vision-Prediction-Ornegi)
+
+1. [Custom Vision Services - Object Detection (C#)](https://github.com/ikivanc/Custom-Vision-Object-Detection-CSharp)
+
+1. [Custom Vision Services - Object Detection (Python)](https://github.com/ikivanc/Custom-Vision-Object-Detection-Sample)
  
 ### Bot Framework & LUIS.AI - Conversations as Platform
 
